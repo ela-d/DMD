@@ -2,6 +2,7 @@
 
 - DMD_functions.ipynb (za visoke matrice)
 - fDMD_functions.ipynb (za široke matrice)
+- Hemati_DMD_functions.ipynb (neka verzija Hemati funkcija izvuceno iz njihovog originalnog koda https://github.com/cwrowley/dmdtools/tree/master)
 
 **ostalo su primjene/primjeri**
 
