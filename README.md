@@ -1,6 +1,11 @@
-DMD_algoritam1.ipynb - basic example
+**FUNKCIJE**
 
-DMD_functions.ipynb - DMD functions
+- DMD_functions.ipynb (za visoke matrice)
+- fDMD_functions.ipynb (za široke matrice)
+
+**ostalo su primjene/primjeri**
+
+DMD_algoritam1.ipynb - basic example
 
 Vorticity_example.ipynb - DMD applied to cylinder data
 
